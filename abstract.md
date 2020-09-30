@@ -1,0 +1,3 @@
+# Exploratory Text Analysis with Python
+
+In this interactive workshop, participants will learn to use SpaCy, a natural language processing (NLP) library in Python, to explore text data. Working with single documents and a small corpus, participants will write Python code to identify and visualize named entities, discover and plot terms by frequency, and extract patterns by syntatic constructions. Throughout, we'll approach Python as a tool that can help us gauge the quality of our texts as data, and identify interesting features to explore while refining research questions.  
